@@ -7,19 +7,19 @@ This is a Telegram Rename Bot!
 /help for more details.."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥[join](https://t.me/AI_bot_projects)"
+    UPGRADE_TEXT = "𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥[join](buttonurl:https://t.me/AI_bot_projects)"
     DOWNLOAD_START = "𝓽𝓻𝔂𝓲𝓷𝓰 𝓽𝓸 𝓭𝓸𝔀𝓷𝓵𝓸𝓪𝓭 𝓹𝓵𝓮𝓪𝓼𝓮 𝔀𝓪𝓲𝓽"
     UPLOAD_START = "𝓽𝓻𝔂𝓲𝓷𝓰 𝓽𝓸 𝓾𝓹𝓵𝓸𝓪𝓭 𝓹𝓵𝓮𝓪𝓼𝓮 𝔀𝓪𝓲𝓽"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓.**\n𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥[join](https://t.me/AI_bot_projects)"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓.**\n[𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥](https://t.me/AI_bot_projects)"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail saved. This image will be used in the File."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
-    SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = " "
+    SAVED_RECVD_DOC_FILE = "**Document Downloaded Successfully.**\n[𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥](https://t.me/AI_bot_projects)"
+    CUSTOM_CAPTION_UL_FILE = "renamed by\n  @TGrenamebyAI_bot"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai am Rename bot..
@@ -39,5 +39,5 @@ Free users only 1 request per 30 minutes.
 The given file name has {num} characters.
 
 <b>Essays Not allowed in Telegram file name!</b>
-©️ <code>@ReNameBot</code>
+©️ <code>@TGrenamebyAI_bot</code>
 Please short your file name and try again!"""

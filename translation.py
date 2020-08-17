@@ -7,7 +7,7 @@ This is a Telegram Rename Bot!
 /help for more details.."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "[𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥](https://t.me/AI_bot_projects)"
+    UPGRADE_TEXT = "𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥\n  @AI_bot_projects"
     DOWNLOAD_START = "𝓽𝓻𝔂𝓲𝓷𝓰 𝓽𝓸 𝓭𝓸𝔀𝓷𝓵𝓸𝓪𝓭 𝓹𝓵𝓮𝓪𝓼𝓮 𝔀𝓪𝓲𝓽"
     UPLOAD_START = "𝓽𝓻𝔂𝓲𝓷𝓰 𝓽𝓸 𝓾𝓹𝓵𝓸𝓪𝓭 𝓹𝓵𝓮𝓪𝓼𝓮 𝔀𝓪𝓲𝓽"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."

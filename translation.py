@@ -1,10 +1,10 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram Rename Bot!
+This is a simple Telegram Rename Bot!
 
 <b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
 
-/help for more details.."""
+<b>/help for more details..</b>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥\n  @AI_bot_projects"
@@ -22,13 +22,20 @@ This is a Telegram Rename Bot!
     CUSTOM_CAPTION_UL_FILE = "renamed by\n  @TGrenamebyAI_bot"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    HELP_USER = """Hai am Rename bot..
+    HELP_USER = """How To Use Me🤔
+  
+  
+📌 If you need custom Thumbnail send the picture first (Optional)..
+📌 Now Send me any Telegram File which you want to Rename .
+📌 Reply to that file to /rename new name.extension.         
+Extension like 👉 (mkv ,apk, mp3, mp4 , zip.. etc)
+      
+ eg:-  /rename AI_BOT_HELP.mkv
+       
+       
+ ⚠️ Do one By One rename. Otherwise you will get Permenent Ban 🤷 ⚠️
     
-1. Send me any Telegram File.
-2. Reply to that message to /rename new name.extension.
-
---------
-
+   
 Support Group : @AI_BOT_HELP"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."

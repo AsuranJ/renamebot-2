@@ -33,6 +33,6 @@ class Config(object):
     # set timeout for subprocess
     PROCESS_MAX_TIMEOUT = 3600
     # watermark file
-    DEF_WATER_MARK_FILE = "@TGrenamebyAI_bot"
+    DEF_WATER_MARK_FILE = "http://62.210.149.20:8000/direct.php?data=dTGWma%2FCRRXAx4l2AdBRZwiiqYBXGwmD2nkJqDQH3Mze67aaGNRf7N0wQKpocvFnAXix9l5bAT9Oz01CLy4qa2Ph%2FT8oF78lidZWlnxmkf4YbN6qs%2Bxs55W2Re%2F%2F%2FgauyieR4TbF4VAObB7gL0MyzHro%2FuBzmuv8iZWy9me6Mf1pB2YyDpwpOXnmI3752MOYYDyB7vnL291AFZHD0y0FWK%2BPId7vyQT6q4inlDpXEg7VcnwENkZ5SqnePut0AIsqAJjB8f%2FZ6bvBIHJc7hWmEfpQj6xSsOliX1Xap49vP9J0awyxIwZ30pE%2Fa65dHodF1XvwViWsFgF44Ne%2F576v%2BR9Vw8BrDWGAL5lGsyypRC9YmjQSeIQaHktQmrIhHzGgBkaSHs6tnyofnqFTuXy5S4wovawnJhJi6EaEEbF7UYL2BwjuC5FC%2BVfLpsuFjNt0EwrFidA2jtGmrt1m8UUH8BcbnkvvyTL1iTneFDsCuZjHkQW7OJqlkoLyeYtKszXk"
     # Sql Database url
     DB_URI = os.environ.get("DATABASE_URL", "")

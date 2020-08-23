@@ -12,7 +12,7 @@ This is a simple Telegram Rename Bot!
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "Jσιɳ συɾ ƈԋαɳɳҽʅ\n  @AI_bot_projects"
     DOWNLOAD_START = "🇹 🇷 🇾 🇮 🇳 🇬 \n🇹 🇴 \n🇩 🇴 🇼 🇳 🇱 🇴 🇦 🇩 \n🇹 🇴 \n🇸 🇪 🇷 🇻 🇪 🇷 \n🇵 🇱 🇪 🇦 🇸 🇪 \n🇼 🇦 🇮 🇹"
-    UPLOAD_START = "🇹 🇷 🇾 🇮 🇳 🇬 \n🇹 🇴 \🇺 🇵 🇱 🇴 🇦 🇩 \n🇵 🇱 🇪 🇦 🇸 🇪 \n🇼 🇦 🇮 🇹"
+    UPLOAD_START = "🇹 🇷 🇾 🇮 🇳 🇬 \n🇹 🇴 \n🇺 🇵 🇱 🇴 🇦 🇩 \n🇵 🇱 🇪 🇦 🇸 🇪 \n🇼 🇦 🇮 🇹"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓.**\n\n[Jσιɳ συɾ ƈԋαɳɳҽʅ](https://t.me/AI_bot_projects)"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
